@@ -1,11 +1,11 @@
-About r-multica
-===============
+About r-multica-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-multica-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=multiCA
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-multica-feedstock/blob/main/LICENSE.txt)
 
 Summary: Implements a generalization of the Cochran-Armitage trend test to multinomial data. In addition to an overall test, multiple testing adjusted p-values for trend in individual outcomes and power calculation is available.
 
